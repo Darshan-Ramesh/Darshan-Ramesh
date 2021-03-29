@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Darshan-Ramesh
-- 👀 I’m interested in applied machine learning & deep learning techs in precision agriculture and in medical image processing
+- 👀 I’m interested in applied machine learning in precision agriculture and in medical image processing
 - 🌱 I’m currently working as an deep learning researcher in the University of Twente for face recognition
 - 💞️ I’m looking to collaborate on building impactful machine learning applications in precision agriculture and life sciences.
 
